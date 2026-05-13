@@ -1,11 +1,11 @@
 # Site settings
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "https://gcdu.github.io" # o domínio base do seu site
-baseurl: ""                       # vazio porque o repositório é gcdu.github.io
+url    : "https://globalcyberdefenseunit.github.io"   # o seu domínio real
+baseurl: "/GCDU"                                      # o nome do repositório
 
 title       : Global Cyber Defense Unit
-email       : gcdc@proton.me  # substitua pelo email seguro que usa para contactos
+email       : GCDU@protonmail.com   # atualizado com o email correto
 description : "Independent pro bono cyber defence – protecting people and critical infrastructure since 2015."
 author      : GCDU
 
