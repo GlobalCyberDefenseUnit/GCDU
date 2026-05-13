@@ -5,23 +5,21 @@ url    : "https://globalcyberdefenseunit.github.io"   # o seu domínio real
 baseurl: "/GCDU"                                      # o nome do repositório
 
 title       : Global Cyber Defense Unit
-email       : GCDU@protonmail.com   # atualizado com o email correto
-description : "Independent pro bono cyber defence – protecting people and critical infrastructure since 2015."
+email       : GCDU@protonmail.com
+description : "Independent cyber defense unit protecting people and privacy since 2015."
 author      : GCDU
 
-locale: "en-US" # Define o idioma principal do site (usado no sitetext.yml)
+locale: "en-US"
 
 analytics:
-  google: # deixe vazio se não tiver Google Analytics
+  google:
 
 collections:
   portfolio:
 
 markdown: kramdown
 
-# Configuração para o formulário de contacto (Formspree)
-# Depois de criar a conta no Formspree, descomente e insira o seu ID:
-# formspree_form_path: "f/o_seu_id_aqui"
+# formspree_form_path: "f/o_seu_id_aqui"   # descomente depois de criar conta no Formspree
 
 plugins:
   - jekyll-remote-theme
