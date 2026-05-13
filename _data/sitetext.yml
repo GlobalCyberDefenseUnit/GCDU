@@ -1,89 +1,85 @@
-# -------------------------------------------------------------------
-# GCDU – Global Cyber Defense Unit
-# Adapted for the Agency theme (one-page)
-# -------------------------------------------------------------------
+en:
+  header:
+    title: "Global Cyber Defense Unit"
+    text: "Independent cyber defense unit protecting people and privacy since 2015."
+    button: "Our Mission"
+    buttonlink: "#services"
 
-header:
-  title: "Global Cyber Defense Unit"
-  text: "Independent, pro bono cyber defence. No external funding. Our only currency is the truth."
-  button: "Our Mission"
-  buttonlink: "#services"
+  services:
+    title: "What We Do"
+    section: services
+    list:
+      - title: "Threat Intelligence"
+        desc: "We collect, analyse and report on APTs, cyberterrorism and espionage. Averaging 300 reports per month since 2025."
+        icon: fas fa-brain
+      - title: "Critical Infrastructure Protection"
+        desc: "We defend energy, water, health, communications, defence and transport through continuous monitoring and vulnerability audits."
+        icon: fas fa-shield-alt
+      - title: "Incident Response & Sensitive Crimes"
+        desc: "We actively pursue child exploitation networks and terrorists. We deliver actionable intelligence to authorities, legally and free of charge."
+        icon: fas fa-child
 
-services:
-  title: "What We Do"
-  section: services
-  list:
-    - title: "Threat Intelligence"
-      desc: "We collect, analyse and report on APTs, cyberterrorism and espionage. Averaging 300 reports per month since 2025."
-      icon: fas fa-brain
-    - title: "Critical Infrastructure Protection"
-      desc: "We defend energy, water, health, communications, defence and transport through continuous monitoring and vulnerability audits."
-      icon: fas fa-shield-alt
-    - title: "Incident Response & Sensitive Crimes"
-      desc: "We actively pursue child exploitation networks and terrorists. We deliver actionable intelligence to authorities, legally and free of charge."
-      icon: fas fa-child
+  about:
+    title: "Who We Are"
+    section: about
+    timeline:
+      - title: "Foundation"
+        desc: "GCDU was born in 2015 in the aftermath of the persecution of cyber‑vigilantes. The mission: fill the defence void left by the state."
+        year: "2015"
+        icon: fas fa-flag
+      - title: "Radical Independence"
+        desc: "We operate without external funding, answering only to our conscience and the public interest."
+        year: "Self‑funded"
+        icon: fas fa-hand-holding-heart
+      - title: "Open War"
+        desc: "We face nation‑state APTs with no protection, driven solely by the will to defend the normal functioning of things."
+        year: "Commitment"
+        icon: fas fa-fist-raised
+      - title: "Real Impact"
+        desc: "Over 30 extremist groups neutralised, thousands of incidents handled, lives saved. Discreet decorations in the US and UK."
+        year: "Results"
+        icon: fas fa-medal
 
-about:
-  title: "Who We Are"
-  section: about
-  timeline:
-    - title: "Foundation"
-      desc: "GCDU was born in 2015 in the aftermath of the persecution of cyber‑vigilantes. The mission: fill the defence void left by the state."
-      year: "2015"
-      icon: fas fa-flag
-    - title: "Radical Independence"
-      desc: "Zero external funding. Everything is paid out of members' own pockets, guaranteeing complete freedom and absolute integrity."
-      year: "Self‑funded"
-      icon: fas fa-hand-holding-heart
-    - title: "Open War"
-      desc: "We face nation‑state APTs with no protection, driven solely by the will to defend the normal functioning of things."
-      year: "Commitment"
-      icon: fas fa-fist-raised
-    - title: "Real Impact"
-      desc: "Over 30 extremist groups neutralised, thousands of incidents handled, lives saved. Discreet decorations in the US and UK."
-      year: "Results"
-      icon: fas fa-medal
+  team:
+    title: "Our Team"
+    section: team
+    people:
+      - name: "Intelligence & Analysis"
+        role: "Threat intelligence collection, processing and production. The operational brain of the GCDU."
+        image: assets/img/team/1.jpg
+        social:
+          - url: "#"
+            icon: fab fa-github
+      - name: "Counter‑Espionage & CTU"
+        role: "Detection and neutralisation of APTs, terrorist networks and spies. High‑risk operations with no safety net."
+        image: assets/img/team/2.jpg
+        social:
+          - url: "#"
+            icon: fab fa-github
+      - name: "Child Protection"
+        role: "Legal pursuit of sexual predators and exploitation rings. The same fight as the cyber‑vigilantes, now with method and full legality."
+        image: assets/img/team/3.jpg
+        social:
+          - url: "#"
+            icon: fab fa-github
 
-team:
-  title: "Our Team"
-  section: team
-  people:
-    - name: "Intelligence & Analysis"
-      role: "Threat intelligence collection, processing and production. The operational brain of the GCDU."
-      image: assets/img/team/01.jpg
-      social:
-        - url: "#"
-          icon: fab fa-github
-    - name: "Counter‑Espionage & CTU"
-      role: "Detection and neutralisation of APTs, terrorist networks and spies. High‑risk operations with no safety net."
-      image: assets/img/team/02.jpg
-      social:
-        - url: "#"
-          icon: fab fa-github
-    - name: "Child Protection"
-      role: "Legal pursuit of sexual predators and exploitation rings. The same fight as the cyber‑vigilantes, now with method and full legality."
-      image: assets/img/team/03.jpg
-      social:
-        - url: "#"
-          icon: fab fa-github
+  clients:
+    title: "Trusted Partners"
+    section: clients
+    list:
+      - image: assets/img/clients/envato.jpg
+      - image: assets/img/clients/designmodo.jpg
+      - image: assets/img/clients/themeforest.jpg
+      - image: assets/img/clients/creative-market.jpg
 
-clients:
-  title: "Trusted Partners"
-  section: clients
-  list:
-    - image: assets/img/logos/envato.jpg
-    - image: assets/img/logos/designmodo.jpg
-    - image: assets/img/logos/themeforest.jpg
-    - image: assets/img/logos/creative-market.jpg
-
-contact:
-  title: "Secure Contact"
-  section: contact
-  text: "If you are a legitimate authority (law enforcement, CERT, government agency) and wish to collaborate, use the form below. All communication is encrypted and confidential."
-  address:
-    - ""
-    - ""
-    - ""
-    - ""
-  phone: ""
-  email: ""
+  contact:
+    title: "Secure Contact"
+    section: contact
+    text: "If you are a legitimate authority (law enforcement, CERT, government agency) and wish to collaborate, use the form below. All communication is encrypted and confidential."
+    address:
+      - ""
+      - ""
+      - ""
+      - ""
+    phone: ""
+    email: ""
