@@ -10,7 +10,7 @@ en:
     section: services
     list:
       - title: "Threat Intelligence"
-        desc: "We collect, analyse and report on APTs, cyberterrorism and espionage. Averaging 300 reports per month since 2025."
+        desc: "We collect, analyse and report on APTs, cyberterrorism and espionage. Averaging 300 reports per month since 2015."
         icon: fas fa-brain
       - title: "Critical Infrastructure Protection"
         desc: "We defend energy, water, health, communications, defence and transport through continuous monitoring and vulnerability audits."
